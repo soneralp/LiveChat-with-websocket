@@ -45,28 +45,6 @@
   <li>Type your desired messages and communicate with other users in real-time.</li>
 </ol>
 
-<ol>
-  <li>Clone this project:</li>
-</ol>
-
-<pre><code>git clone https://github.com/user/chat-application.git</code></pre>
-
-<ol start="2">
-  <li>Make your changes and commit meaningful commit messages during the development phase:</li>
-</ol>
-
-<pre><code>git commit -am 'Add feature: Real-time notifications'</code></pre>
-
-<ol start="3">
-  <li>Push your branch to the main branch (usually <code>master</code> or <code>main</code>):</li>
-</ol>
-
-<pre><code>git push origin feature/new-feature</code></pre>
-
-<ol start="4">
-  <li>Create a pull request with a brief description explaining your changes.</li>
-</ol>
-
 <h2>License</h2>
 
 <p>This project is licensed under the MIT License. For more information, please refer to the <code>LICENSE</code> file.</p>
