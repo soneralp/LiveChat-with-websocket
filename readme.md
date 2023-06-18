@@ -7,7 +7,6 @@
 <ul>
   <li>Real-time communication: Socket.IO provides real-time communication over the WebSocket protocol, allowing users to chat instantly.</li>
   <li>Chat room: Users can join the same chat room to interact with each other.</li>
-  <li>Message history: It keeps track of the last 100 messages, allowing users to view them.</li>
   <li>Usernames: Users can join the chat room with their desired username.</li>
 </ul>
 
@@ -17,13 +16,13 @@
   <li>Clone the project repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/user/chat-application.git</code></pre>
+<pre><code>git clone https://github.com/soneralp/LiveChat-with-websocket.git</code></pre>
 
 <ol start="2">
   <li>Navigate to the project folder:</li>
 </ol>
 
-<pre><code>cd chat-application</code></pre>
+<pre><code>cd LiveChat-with-websocket</code></pre>
 
 <ol start="3">
   <li>Install the necessary dependencies:</li>
